@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasidew&label=Profile%20views&color=0e75b6&style=flat" alt="yasidew" /> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yasidew&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yasidew&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 
 - 📫 How to reach me **ydewmin@gmail.com**
