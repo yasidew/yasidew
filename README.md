@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasitha Dewmin</h1>
-<h3 align="center">I am a passionate developer </h3>
+<h3 align="center">I am a Web Developer </h3>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yasidew&theme=dark&no-frame=false&no-bg=true&margin-w=4)
