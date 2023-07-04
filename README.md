@@ -4,7 +4,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yasidew&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-🌱 I’m currently learning **Spring Boot and Angular**
+- 🌱 I’m currently learning **Spring Boot and Angular**
 - 📫 How to reach me **ydewmin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
