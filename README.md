@@ -3,7 +3,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yasidew&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-<img align="right" alt ="Coding" width = "100" src = "https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+<img align="right" alt ="Coding" width = "150" src = "https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
 - 🌱 I’m currently learning **Spring Boot and Angular**
 - 📫 How to reach me **ydewmin@gmail.com**
