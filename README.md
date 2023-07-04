@@ -1,4 +1,4 @@
-[![MasterHead] (https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)]
+[![MasterHead] (https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yasitha Dewmin</h1>
 <h3 align="center">I am a Web Developer </h3>
 
