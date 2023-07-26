@@ -1,4 +1,4 @@
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="MasterHead" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/yasitha-dewmin/" rel="nofollow"><img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="MasterHead" style="max-width: 100%;"></a>
 <h1 align="center">Hi 👋, I'm Yasitha Dewmin</h1>
 <h3 align="center">I am a Web Developer </h3>
 
