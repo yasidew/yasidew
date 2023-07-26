@@ -14,6 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yasitha-dewmin" target="blank"><img align="center" src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" alt="yasitha-dewmin" height="30" width="30" /></a>
 <a href="https://medium.com/@ydewmin" target="blank"><img align="center" src="https://camo.githubusercontent.com/fd994de8d95887ef1f5bcd29b516ee7706f52cd6b0abb53d44c5e9708b70b8a7/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3531322669643d58564e7655574376766c443926666f726d61743d706e67" alt="@ydewmin" height="30" width="30" /></a>
+<a href="https://twitter.com/yas_de_" target="blank"><img align="center" src="https://camo.githubusercontent.com/935991993635cd0e6398dd4368b13949a1bac7853b6361bd8d44bf95641f986a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f747769747465722e706e67" alt="yas_de_" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
