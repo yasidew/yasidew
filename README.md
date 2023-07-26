@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/yasitha-dewmin/" rel="nofollow"><img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="MasterHead" style="max-width: 100%;"></a>
 
-
+<hr>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=000000&width=435&lines=Hello+%F0%9F%91%8B;Iam+Yasitha+Dewmin;A+Web+Developer;A+Web+Designer;A+UI%2FUX+Designer" alt="Typing SVG" /></a>
 </p>
