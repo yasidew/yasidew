@@ -12,7 +12,7 @@
 <img align="right" alt ="Coding" width = "350" height= "200" src = "https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
 - 🔭 I’m currently working on **PAT Projects**
-- 🌱 I’m currently learning **AWS and React Native**
+- 🌱 I’m currently learning **React Native**
 - 📫 How to reach me **ydewmin@gmail.com**
 - 👨‍💻 All of my projects are available at [Portfolio](https://yasidew.github.io/personal-portfolio/)
 
