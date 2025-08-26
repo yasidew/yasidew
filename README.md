@@ -2,7 +2,7 @@
 
 <br>
 <p align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0B2531&center=true&vCenter=true&width=450&height=70&lines=Hello+%F0%9F%91%8B;Iam+Yasitha+Dewmin;A+Web+Developer;A+Web+Designer;A+UI%2FUX+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0B2531&center=true&vCenter=true&width=450&height=70&lines=Hello+%F0%9F%91%8B;Iam+Yasitha+Dewmin;A+Web+Developer;A+Web+Designer;A+Full%2Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 <hr>
@@ -12,8 +12,11 @@
 <img align="right" alt ="Coding" width = "350" height= "200" src = "https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
 - 🔭 I’m currently working on **PAT Projects**
-- 🌱 I’m currently learning **React Native** and **.NET**
+- 🌱 I’m currently learning **.NET**
+- 👯 Open to collaborating on backend & cloud projects
+- 💡 Interested in AI/ML & DevOps
 - 📫 How to reach me **ydewmin@gmail.com**
+- ⚡ Fun fact: I love writing about software engineering & tech trends on [Medium](https://medium.com/@ydewmin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
